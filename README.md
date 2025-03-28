@@ -46,4 +46,4 @@ Confira meus repositórios e projetos:
 
 ---
 
-✨ _Sempre aprendendo e evoluindo na programação!_ 🚀
+🔥 _Código, dedicação e evolução constante!_ 💡
