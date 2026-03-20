@@ -8,8 +8,8 @@ Sou apaixonado por tecnologia e estou sempre em busca de crescimento profissiona
 
 ## 🚀 Tecnologias que utilizo e estudo
 
-- **Linguagens:** C++, Python, Java, JavaScript, HTML5, CSS
-- **Frameworks e Ferramentas:** [ReactJS](https://react.dev/), [Git](https://git-scm.com/), [Node.js](https://nodejs.org/), [VSCode](https://code.visualstudio.com/)
+- **Linguagens:** C++, PHP, Java, JavaScript, HTML5, CSS
+- **Frameworks e Ferramentas:** [ReactJS](https://react.dev/), [Git](https://git-scm.com/), [Laravel](https://laravel.com/), [VSCode](https://code.visualstudio.com/)
 
 ---
 
